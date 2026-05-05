@@ -8,7 +8,6 @@
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite)](https://vite.dev/)
 [![Recharts](https://img.shields.io/badge/Recharts-3.8-22B5BF?style=flat-square)](https://recharts.org/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
 Інтерактивний дашборд для дослідження обсягу виробленої продукції суб'єктів підприємництва України у розрізі 969 кодів КВЕД, 12 років і чотирьох категорій бізнесу.
 
