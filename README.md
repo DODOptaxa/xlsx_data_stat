@@ -14,6 +14,8 @@
 
 </div>
 
+<img width="1862" height="897" alt="image" src="https://github.com/user-attachments/assets/af469691-20fe-452a-915c-b7ba6b42b1d4" />
+
 ---
 
 ## 📊 Статистика датасету
